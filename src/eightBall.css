@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+}
+
+.EightBall{
+    /* width: 250px;
+    height: 250px;
+    border: 1px solid black; */
+
+    box-shadow: 5px 5px 10px #678;
+        margin: 50px;
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+
+
+/* .EightBall-center{
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 140px;
+    background-color: black;
+    }
+
+.EightBall-text{
+    color:white ;
+    padding: 45px;
+
+} */
+
